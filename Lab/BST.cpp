@@ -208,18 +208,26 @@ int countGreater(Node* root, int x){
 	return (root->key > x ? 1 : 0) + left + right;
 }
 
+int getMax(Node* root){
+	while (root->right != NULL)
+		root = root->right;
+	return root->key;
+}
+
+int getMin(Node* root){
+	while (root->left != NULL)
+		root = root->left;
+	return root->key;
+}
+
 bool isBST(Node* root){
 	if (root == NULL)
 		return true;
-	if (root->left != NULL && root->key <= root->left->key)
+	if (root->left != NULL && getMax(root->left) > root->key)
 		return false;
-	if (root->right != NULL && root->key > root->right->key)
+	if (root->right != NULL && getMin(root->right) < root->key)
 		return false;
-	if (root->left == NULL && root->right == NULL)
-		return true;
-	bool left = isBST(root->left);
-	bool right = isBST(root->right);
-	return left && right;
+	return isBST(root->left) && isBST(root->right);
 }
 
 bool isFullBST(Node* root){
@@ -240,12 +248,10 @@ bool isFullBST(Node* root){
 int main(){
 	Node* root = NULL;
 	insert(root, 3);
-	insert(root, 2);
-	insert(root, 5);
-	insert(root, 1);
-	insert(root, 4);
-	insert(root, 10);
-	insert(root, 14);
+	root->left = createNode(2);
+	root->right = createNode(5);
+	root->left->left = createNode(1);
+	root->left->right = createNode(4);
 	cout << isBST(root) << endl;
 	levelOrder(root);
 	removeTree(root);
