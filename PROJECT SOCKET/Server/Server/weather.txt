@@ -1,0 +1,29 @@
+Ho Chi Minh | 13/4/2021 | rain | 4
+New York | 13/4/2021 | rain | 4
+London | 13/4/2021 | rain | 4
+Tokyo | 13/4/2021 | rain | 4
+Berlin | 13/4/2021 | rain | 4
+Kuala Lumpur | 13/4/2021 | rain | 4
+Ho Chi Minh | 19/4/2021 | rain | 23
+New York | 19/4/2021 | rain | 12
+London | 19/4/2021 | suning | 34
+Tokyo | 19/4/2021 | snow | 23
+Berlin | 19/4/2021 | normal | 34
+Kuala Lumpur | 19/4/2021 | rain | 14
+Ho Chi Minh | 20/4/2021 | Cloudy | 29
+New York | 20/4/2021 | Sunny | 24
+London | 20/4/2021 | Humid | 22
+Tokyo | 20/4/2021 | Sunny | 23
+Ho Chi Minh | 24/4/2021 | Sunny | 30
+New York | 24/4/2021 | Rain | 20
+London | 24/4/2021 | Rain | 21
+Tokyo | 24/4/2021 | Cloudy | 25
+Berlin | 24/4/2021 | Sunny | 24
+Kuala Lumpur | 24/4/2021 | Sunny | 28
+Da Nang | 24/4/2021 | Sunny | 32
+Ho Chi Minh | 25/4/2021 | Sunny | 30
+Ho Chi Minh | 26/4/2021 | Sunny | 30
+Ho Chi Minh | 27/4/2021 | Rain | 28
+Ho Chi Minh | 28/4/2021 | Rain | 29
+Ho Chi Minh | 29/4/2021 | Sunny | 30
+Ho Chi Minh | 30/4/2021 | Cloudy | 29
