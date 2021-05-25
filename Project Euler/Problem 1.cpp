@@ -1,4 +1,6 @@
-/*#include <iostream>
+// 5 - 10 - 2001
+
+#include <iostream>
 
 using namespace std;
 
@@ -22,9 +24,6 @@ long long solve(long long n) {
 }
 
 int main() {
-	long long n;
-	cout << "Enter n: ";
-	cin >> n;
-	cout << "Result: " << solve(n);
+	cout << "Result: " << solve(1000);
 	return 0;
-}*/
+}
