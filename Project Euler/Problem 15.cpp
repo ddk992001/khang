@@ -1,7 +1,6 @@
 // 19 - 4 - 2002
 
 #include <iostream>
-#include <vector>
 
 using namespace std;
 
