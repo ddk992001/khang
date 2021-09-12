@@ -1,4 +1,4 @@
-// 22 - 3 - 2002
+// LARGE SUM
 
 #include <iostream>
 #include <vector>

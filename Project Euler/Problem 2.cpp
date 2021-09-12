@@ -1,4 +1,4 @@
-// 19 - 10 - 2001 
+// EVEN FIBONACCI NUMBERS 
 
 #include <iostream>
 

@@ -1,4 +1,4 @@
-// 19 - 4 - 2002
+// LATTICE PATHS
 
 #include <iostream>
 

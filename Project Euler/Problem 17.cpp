@@ -1,4 +1,4 @@
-// 18 - 5 - 2002
+// NUMBER LETTER COUNTS
 
 #include <iostream>
 #include <vector>

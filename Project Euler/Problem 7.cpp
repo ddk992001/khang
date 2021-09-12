@@ -1,4 +1,4 @@
-// 28 - 12 - 2001
+// 10001st PRIME
 
 #include <iostream>
 #include <vector>

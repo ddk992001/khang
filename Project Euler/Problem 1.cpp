@@ -1,4 +1,4 @@
-// 5 - 10 - 2001
+// MULTIPLES OF 3 OR 5
 
 #include <iostream>
 

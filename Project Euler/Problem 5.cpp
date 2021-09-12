@@ -1,4 +1,4 @@
-// 30 - 11 - 2001
+// SMALLEST MULTIPLE
 
 #include <iostream>
 #include <vector>

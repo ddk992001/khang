@@ -1,4 +1,4 @@
-// 2 - 11 - 2001 
+// LARGEST PRIME FACTOR
 
 #include <iostream>
 

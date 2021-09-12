@@ -1,4 +1,4 @@
-// 14 - 12 - 2001
+// SUM SQUARE DIFFERENENCE
 
 #include <iostream>
 #include <cmath>

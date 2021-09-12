@@ -1,4 +1,4 @@
-// 4 - 5 - 2002
+// POWER DIGIT SUM
 
 #include <iostream>
 #include <vector>

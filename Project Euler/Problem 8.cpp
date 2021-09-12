@@ -1,4 +1,4 @@
-// 11 - 1 - 2002
+// LARGEST PRODUCT IN A SERIES
 
 #include <iostream>
 #include <vector>

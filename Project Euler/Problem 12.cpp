@@ -1,4 +1,4 @@
-// 8 - 3 - 2002
+// HIGHLY DIVISIBLE TRIANGULAR NUMBER
 
 #include <iostream>
 

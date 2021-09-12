@@ -1,4 +1,4 @@
-// 25 - 1 - 2002
+// SPECIAL PYTHAGOREAN TRIPLET
 
 #include <iostream>
 

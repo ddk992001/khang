@@ -1,4 +1,4 @@
-// 22 - 2 - 2002
+// LARGEST PRODUCT IN A GRID
 
 #include <iostream>
 #include <vector>

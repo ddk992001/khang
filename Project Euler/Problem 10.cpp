@@ -1,4 +1,4 @@
-// 8 - 2 - 2002
+// SUMMATION OF PRIMES
 
 #include <iostream>
 #include <vector>

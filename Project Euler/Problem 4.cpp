@@ -1,4 +1,4 @@
-// 16 - 11 - 2001
+// LARGEST PALINDROME PRODUCT
 
 #include <iostream>
 #include <vector>

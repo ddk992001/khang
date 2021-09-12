@@ -1,4 +1,4 @@
-// 5 - 4 - 2002
+// LONGEST COLLATZ SEQUENCE
 
 #include <iostream>
 #include <vector>
